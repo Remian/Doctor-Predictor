@@ -743,7 +743,7 @@ class guiML(Frame):
         self.scoreCount.update({self.ParkinsonExtraTreeClassifier: scoreE})
 
         if(chButtonLogic == 1):
-            self.upload_file(self.FILE, 'ecg')
+            self.upload_file(FILE_loc, 'ecg')
             self.statusVar.set("Trained")
 
         else:
