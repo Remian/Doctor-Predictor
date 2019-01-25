@@ -1,0 +1,2 @@
+Recency (months),Frequency (times),Monetary (c.c. blood),Time (months),donate
+1 ,12,3000,35 ,0

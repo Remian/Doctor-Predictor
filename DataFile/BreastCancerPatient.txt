@@ -1,0 +1,2 @@
+id,clumbThick,unSize,unShape,mAdhesion,SingleEpiSize,BareNucli,BalndChrome,NormalNuclei,mitosis,label
+1115282,5,3,5,5,3,3,4,10,1,4
