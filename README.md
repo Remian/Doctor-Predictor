@@ -8,9 +8,13 @@ blood.txt is the dataset for blood transfusion, bloodPatient.txt is the sample d
 BreastCancerData.txt is the data for breast cancer patients, BreastCancerPatient.txt is the sample data for prediction
 key.txt contains information to upload data to the firebase server.
 
-change the location of the following variables (as per your DataFile Locationa) in the doctorPredictor.py file
+change the location of the following variables (as per your DataFile Locationa) in the doctorPredictor.py file.
+
 self.FILE = 'C:/Users/AA/Desktop/Doctor Peredictor/DataFile/'
+
 self.KEYS = 'C:/Users/AA/Desktop/Doctor Peredictor/DataFile/keys.txt'
+
+
 
 modules used:
 tkinter
