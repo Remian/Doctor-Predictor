@@ -1,4 +1,5 @@
 # Doctor-Predictor
+****SCREENSHOTS ARE PROVIDED IN THE SCREENSHOT FILE***
 Doctor Predictor is GUI application to train data sets on sklearn classifiers. It trains models through 4 sklearn classifiers(Random Forest, Linear Discriminant Analysis model, Gaussian model and Extra Tree Classifier).
 The prediction is made through the model which gives maximum accuracy, with extensive features. Hopefully it may help a lot who are new to machine learning.
 
